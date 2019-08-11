@@ -7,7 +7,7 @@
         "sidebar" : {
             "Home" : "http://blog.acseed.cn"
         }
-    }，
+    },
     "plugins": [
         "katex"
     ],
