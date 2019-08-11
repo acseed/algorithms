@@ -1,3 +1,23 @@
 {
-    "title" : "algorithms"
+    "title" : "algorithms",
+    "author" : "acseed",
+    "description" : "记录自己的算法学习",
+    "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+            "Home" : "http://blog.acseed.cn"
+        }
+    }，
+    "plugins": [
+        "katex"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size":  1
+        }
+    }
+
+
 }
